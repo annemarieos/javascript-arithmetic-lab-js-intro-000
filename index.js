@@ -34,7 +34,7 @@ function makeInt(a) {
   return number
 }
 
-function perserveDecimal(a) {
-  number = perserveDecimal(a, 10)
+function preserveDecimal(a) {
+  number = preserveDecimal(a, 10)
   return number
 }
